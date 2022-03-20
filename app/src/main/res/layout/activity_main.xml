@@ -9,6 +9,7 @@
     <!-- Set the font family to serif -->
     <!-- Set the Text to Hello Stu -->
     <!-- Set the font size to 48 -->
+    <!-- This is a new message for the GitHub Assignment -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
